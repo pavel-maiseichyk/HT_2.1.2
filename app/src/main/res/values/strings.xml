@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">HT_2.1.2</string>
+
+    <string-array name="countries">
+        <item>Россия</item>
+        <item>Украина</item>
+        <item>Беларусь</item>
+    </string-array>
+
+    <string-array name="russia">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+    </string-array>
+
+    <string-array name="ukraine">
+        <item>Киев</item>
+        <item>Одесса</item>
+        <item>Харьков</item>
+    </string-array>
+
+    <string-array name="belarus">
+        <item>Минск</item>
+        <item>Гомель</item>
+        <item>Торжок</item>
+    </string-array>
+
+    <string name="buttonOK">OK</string>
+</resources>
